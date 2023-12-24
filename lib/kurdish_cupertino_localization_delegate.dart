@@ -349,15 +349,19 @@ class KurdishCupertinoLocalizations extends GlobalCupertinoLocalizations {
   @override
   String get noSpellCheckReplacementsLabel => throw UnimplementedError();
   
+  @override
   String get lookUpButtonLabel =>  '';
   
  
+  @override
   String get menuDismissLabel => '';
   
   
+  @override
   String get searchWebButtonLabel => '';
   
   
+  @override
   String get shareButtonLabel => '';
 
 

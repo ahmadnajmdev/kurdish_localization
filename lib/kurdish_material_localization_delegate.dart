@@ -555,15 +555,19 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
   String get scanTextButtonLabel => '';
   
   
+  @override
   String get lookUpButtonLabel => '';
   
   
+  @override
   String get menuDismissLabel => '';
   
   
+  @override
   String get searchWebButtonLabel => '';
   
   
+  @override
   String get shareButtonLabel => '';
 
 
