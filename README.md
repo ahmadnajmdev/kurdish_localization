@@ -1,7 +1,13 @@
 
 ### Getting Started
 
-`import 'package:flutter_kurdish_localization/flutter_kurdish_localization.dart';`
+
+```
+import 'package:flutter_sorani_localization/flutter_kurdish_localization.dart';
+import 'package:flutter_sorani_localization/kurdish_cupertino_localization_delegate.dart';
+import 'package:flutter_sorani_localization/kurdish_material_localization_delegate.dart';
+import 'package:flutter_sorani_localization/kurdish_widget_localization_delegate.dart';
+```
 
 Add these two delegates to *localizationsDelegates* array
 
@@ -27,9 +33,4 @@ return MaterialApp(
 
 
 
-## Links
 
-
-* [Source code](https://github.com/aminsamad/flutter_kurdish_localization/)
-* [Instagram](https://instagram.com/amin._.samad/)
-* [Facebook](https://www.facebook.com/amin.samad.14418/)
